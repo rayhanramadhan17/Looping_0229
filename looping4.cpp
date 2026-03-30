@@ -6,3 +6,9 @@ int main() {
     string status;
 
     
+    cout << "Masukkan nilai Matematika = ";
+    cin >> nilM;
+    cout << "Masukkan nilai Bahasa Inggris = ";
+    cin >> nilB;
+
+    
